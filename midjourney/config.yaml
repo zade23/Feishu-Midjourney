@@ -1,0 +1,8 @@
+# discord 配置
+# 注意：内网穿透的端口是16007！！！！
+DISCORD_USER_TOKEN: 你的用户token
+DISCORD_BOT_TOKEN: 你的机器人token
+DISCORD_SERVER_ID: 你的discord服务器id
+DISCORD_CHANNEL_ID: 你的discord频道id
+CB_URL: http://127.0.0.1:16007/api/discord
+MJ_PORT: 16008
