@@ -7,10 +7,15 @@
 ✨ 可以添加更多你们能想到的或你们想要的功能
 - ⚽️ 文生图: 在飞书中能够使用`/imagine prompt`进行midjourney生图并获取到对应的图片
 - 🏹 图生文:  支持describe语法
-- 🏀 图片变体: 生成的图片能够在飞书中进行Upscale、Variation、Make Variation、Reroll操作
+- 🏀 图片变体: 生成的图片能够在飞书中进行Upscale、Variation、Reroll操作
 - ⚾️ 私聊使用: 使用者在飞书中私聊机器人生成的图能够发送给对应的人
 - 🎲 群聊使用: 和好友一起分享生图的喜悦
 - 🥎 并发限制：基于midjourney Bot机器人的限制。限制同时生图的人数，增加排队机制。
+
+## 机器人未实现功能
+- (BugList)Make Variation功能接口现已失效
+- (FutureRequest)图生图功能如何实现
+- (FutureRequest)动态实时展示生成效果
 
 ## 使用教程（原仓库自带）
 
